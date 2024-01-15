@@ -1,11 +1,24 @@
-HappyEveryDay with Freelancer 
+hAPPYeVERYdAY WITH Freelancer
 
-🏆As a senior full stack developer,🏆
-I have dedicated myself to the world of programming, constantly expanding my skillset and knowledge.
-💯With a thirst for knowledge and a passion for creation,
-I am constantly seeking new challenges and expanding my skills. Learning is my truest companion, as I delve into the depths of technology, unraveling its secrets one line at a time.
-📞Beyond my prowess in coding, I am also a friendly soul, eager to forge new connections and make friends within the vast realm of developers. Collaboration and camaraderie are the pillars of growth, and I am always open to joining forces with like-minded individuals.
+🏆 Highly Responsive Full-Stack Developer | Exceeding Expectations | Reliable Collaboration | Top Rated 🏆
 
-🚀 Confidently in the direction of your dreams. Live the life you have imagined.
+Hello! 
+👋 I'm a highly experienced full-stack developer with over 6 years of expertise in Frontend, Backend, AWS, and Mobile Application development. I have a genuine passion for creating robust and scalable web and mobile applications that exceed client expectations.
 
-I know it's challenging at times, but remember, the race to success is not always won by the quickest, but rather those who remain steadfast and undeterred, lighting up their path with the flame of passion, determination, and resilience.
+My technical skills include:
+
+✔️ JavaScript (ES5/ES6/ES7+, Babel), NodeJS, Loopback, NestJS
+✔️ VueJS, Nuxt, Angular, React
+✔️ Ionic4, React-Native, Native Applications
+✔️ HTML5, CSS3 with SCSS, SVG, canvas, animation, flex
+✔️ UI/UX, responsive web
+✔️ Material UI, Bootstrap, Zurb Foundation
+✔️ Webpack, npm, yarn, etc...
+✔️ AWS, CI/CD Cycles, Firebase
+✔️ MySql, MongoDB, DynamoDB, Redis, Firestore
+
+🎓 Equipped with a Master of Science in Computer Science 🧑‍🎓, I have the knowledge and skills necessary to develop clean and maintainable code that adheres to industry standards. I prioritize code quality, utilizing ESlint and sass-lint tools, and stay up-to-date with the latest trends and technologies.
+
+My strong Linux (shell) skills, along with experience in AWS, Apache, and various backend APIs, enable me to handle complex projects with ease. I am committed to clear communication, attention to detail, and delivering top-notch work on time, which has earned me a reputation as a top-rated developer on Upwork.
+
+I am passionate about collaborating with clients to bring their ideas to life and always strive to exceed expectations. If you are in need of a skilled and reliable developer to drive the success of your next project, please don't hesitate to reach out. I look forward to discussing how we can collaborate to create something extraordinary! 😊
