@@ -1,9 +1,9 @@
-##### HappyEveryDay with Freelancer
+# HappyEveryDay with Freelancer
 
-# 🏆 Highly Responsive Full-Stack Developer | Exceeding Expectations | Reliable Collaboration 🏆
+## 🏆 Highly Responsive Full-Stack Developer | Exceeding Expectations | Reliable Collaboration 🏆
 
-# Hello! 
-# 👋 I'm a highly experienced full-stack developer with over 6 years of expertise in Frontend, Backend, AWS, and Mobile Application development. I have a genuine passion for creating robust and scalable web and mobile applications that exceed client expectations.
+## Hello! 
+### 👋 I'm a highly experienced full-stack developer with over 6 years of expertise in Frontend, Backend, AWS, and Mobile Application development. I have a genuine passion for creating robust and scalable web and mobile applications that exceed client expectations.
 
 My technical skills include:
 
