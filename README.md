@@ -1,4 +1,3 @@
-# HappyEveryDay with Freelancer
 
 ### 🏆 Highly Responsive Full-Stack Developer | Exceeding Expectations | Reliable Collaboration 🏆
  
